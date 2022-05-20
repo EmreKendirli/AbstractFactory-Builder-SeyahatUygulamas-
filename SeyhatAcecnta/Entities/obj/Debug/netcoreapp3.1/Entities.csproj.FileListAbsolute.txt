@@ -1,0 +1,26 @@
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

@@ -1,0 +1,38 @@
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\SeyhatAcentasi.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\SeyhatAcentasi.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\SeyhatAcentasi.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\SeyhatAcentasi.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\SeyhatAcentasi.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\SeyhatAcentasi.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.csproj.CopyComplete
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\SeyhatAcentasi\obj\Debug\netcoreapp3.1\SeyhatAcentasi.pdb

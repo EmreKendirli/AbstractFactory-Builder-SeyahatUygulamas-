@@ -1,0 +1,19 @@
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\Core\obj\Debug\netcoreapp3.1\Core.pdb

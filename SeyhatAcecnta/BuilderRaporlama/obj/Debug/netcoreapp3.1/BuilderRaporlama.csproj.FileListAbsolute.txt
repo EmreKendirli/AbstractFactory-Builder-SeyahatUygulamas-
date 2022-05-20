@@ -1,0 +1,29 @@
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\BuilderRaporlama.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\BuilderRaporlama.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\BuilderRaporlama.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.csproj.AssemblyReference.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.AssemblyInfoInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.AssemblyInfo.cs
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\BuilderRaporlama.deps.json
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\BuilderRaporlama.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\BuilderRaporlama.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\EMRE\Desktop\Yazılım Mimarisi proje - Kopya (2)\SeyhatAcecnta\BuilderRaporlama\obj\Debug\netcoreapp3.1\BuilderRaporlama.csproj.CopyComplete
