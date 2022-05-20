@@ -15,15 +15,12 @@ namespace BuilderRaporlama
         public void HTMLRaporGetir(int id)
         {
            _reportBuilder.SeyehatBilgileriniGetir(id);
-           // _reportBuilder.SeyehatDetay(Tc);
-           // _reportBuilder.RezervasyonFiyat(Tc);
+            _reportBuilder.UlasimBilgileriniGetir(id);
         }
         public void JSONRaporGetir(int id)
         {
-            //_reportBuilder.SeyehatBilgileriniGetir(id);
+            _reportBuilder.SeyehatBilgileriniGetir(id);
             _reportBuilder.UlasimBilgileriniGetir(id);
-            /*_reportBuilder.SeyehatDetay(Tc);
-            _reportBuilder.RezervasyonFiyat(Tc);*/
         }
         public void XMLRaporGetir(int id)
         {

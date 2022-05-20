@@ -11,5 +11,6 @@ namespace DataAccess.Abstact
     public interface IKonaklamaBilgiDal:IRepostory<KonaklamaBilgi>
     {
         public List<KonaklamaDetailDto> konaklamaDetailDtos(Expression<Func<KonaklamaDetailDto, bool>> fiter = null);
+        public KonaklamaDetailDto GetID(Expression<Func<KonaklamaDetailDto, bool>> fiter = null);
     }
 }

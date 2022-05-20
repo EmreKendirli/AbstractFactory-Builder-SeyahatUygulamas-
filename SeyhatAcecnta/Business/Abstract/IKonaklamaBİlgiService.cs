@@ -8,6 +8,6 @@ namespace Business.Abstract
     public interface IKonaklamaBİlgiService
     {
         List<KonaklamaDetailDto> konaklamaDetailDtos(string konaklamaYeri, string konaklamaTipi);
-        List<KonaklamaBilgi> a(int a);
+        KonaklamaDetailDto GetId(int id);
     }
 }

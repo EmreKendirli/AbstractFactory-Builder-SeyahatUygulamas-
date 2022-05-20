@@ -16,12 +16,10 @@ namespace Business.Concrete
             _konaklamaBilgiDal = konaklamaBilgiDal;
         }
 
-        public List<KonaklamaBilgi> a(int a)
+        public KonaklamaDetailDto GetId(int id)
         {
-            return _konaklamaBilgiDal.GetAll(p => p.YerTipiID == a);
+            return _konaklamaBilgiDal.GetID(p => p.KonaklamaID == id);
         }
-
-       
 
         public List<KonaklamaDetailDto> konaklamaDetailDtos(string konaklamaYeri, string konaklamaTipi)
         {
